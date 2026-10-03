@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE / editor folders
+.idea/
+.vscode/
+
+# Manim render output (scenes, partial movie files, LaTeX cache)
+media/
